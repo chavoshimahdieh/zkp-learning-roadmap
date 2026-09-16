@@ -22,6 +22,7 @@ Hey friends! This is a roadmap I've put together for learning ZKP, and I'd like 
 
 - 📄 **MoonMath Manual (PDF)** — https://github.com/LeastAuthority/moonmath-manual/releases/latest/download/main-moonmath.pdf
 - 📘 **Book:** *Introduction to Modern Cryptography, 3rd Edition* by Jonathan Katz and Yehuda Lindell
+- 🎥 **ZK Cryptographer** https://www.youtube.com/@zk.cryptographer
 
 ---
 
